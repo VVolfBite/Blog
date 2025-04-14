@@ -1,0 +1,14 @@
+top:
+  - class_name:
+    id_name:
+    name:
+    icon:
+    html: <div class="aplayer no-destroy" data-id="8832521054" ata-fixed="true" data-server="netease" data-type="playlist" data-autoplay="false" data-lrcType="0"> </div>
+
+bottom:
+  - class_name:
+    id_name:
+    name:
+    icon:
+    order:
+    html:
